@@ -53,3 +53,13 @@ This project used basic VPC networking components. No EC2 instance or NAT Gatewa
 ## Project Status
 
 Completed — basic VPC networking configuration and route verification.
+## Project Screenshots
+
+### VPC Details
+![VPC Details](VPC-details.png)
+
+### Subnets
+![Subnets](Subnets.png)
+
+### Route Tables
+![Routes](Routes.png)
