@@ -14,6 +14,7 @@ This beginner-friendly AWS project demonstrates how to create a Virtual Private 
 - Route Tables
 
 ## Network Architecture
+![AWS VPC Architecture](architecture.png)
 
 **VPC CIDR:** `10.0.0.0/16`
 
